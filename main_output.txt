@@ -1,0 +1,13 @@
+Enter tenant's name: 
+John Doe
+Tenant Info: John Doe, Contact: 555-1234
+Lease Info: Lease for 123 Elm St, Tenant: John Doe, Rent: 1200
+Enter tenant's name for maintenance request: 
+Jim Brown
+Describe the maintenance issue: 
+Faulty wiring
+Request logged: Request for 789 Pine St, Faulty wiring, Status: Pending
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
